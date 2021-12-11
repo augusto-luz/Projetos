@@ -1,0 +1,13 @@
+{
+    "name": "composer/augusto",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "augusto-luz",
+            "email": "augusto.luzq@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^1.0"
+    }
+}

@@ -1,0 +1,74 @@
+body {
+    font-family: 'Work Sans';
+  
+}
+
+.button-white {
+    background-color: #fff;
+    color: #f84343;
+    border: 0px;
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.2);
+    border-radius: 3px;
+    padding: 5px 20px;
+    margin-left: 30px;
+    font-weight: bold;
+   
+}
+
+.button-white:hover {
+    background-color: #f84343;
+    color: #fff;
+
+}
+
+.text-blue {
+    color: #1f4387 !important ;
+    font-weight: bold;
+}
+
+.text-gray {
+    color: #6b767b;
+}
+
+.button-red-rounded {
+    background-color: #f84343;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    padding: 10px 25px;
+    
+}
+
+.button-red-rounded:hover {
+    background-color: #fff;
+    color: #f84343;
+    border: 1px solid #f84343;;
+}
+
+.button-blue-muted {
+    color:#1f4387  ;
+    background-color: transparent;
+    border: none;
+    
+}
+.button-blue-muted:hover {
+text-decoration: underline;
+}
+
+#imagem-principal {
+    height: 500px;
+}
+
+#banner {
+    padding: 70px;
+}
+
+#banner h1{
+    margin-top: 70px;
+    font-weight: bold;
+}
+
+#banner p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
